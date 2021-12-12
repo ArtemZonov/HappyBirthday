@@ -90,8 +90,7 @@ class MainActivity : AppCompatActivity(), CoroutineScope {
     }
     fun stop(){
         player?.stop()
-        //btStop.isEnabled(false)
-        //btStart.isEnabled(true)
+
     }
 
     override fun onDestroy() {
