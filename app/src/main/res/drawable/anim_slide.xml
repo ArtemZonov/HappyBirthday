@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item android:drawable="@drawable/birthday"
+        android:duration="3500" />
+    <item android:drawable="@drawable/born"
+        android:duration="3500" />
+    <item android:drawable="@drawable/bornone"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/borntwo"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornthree"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornfour"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornfive"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornseven"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/borneight"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/twenty"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/borneleven"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/borntwelve"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornthirteen"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornsixteen"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/bornseventeen"
+        android:duration="3500"/>
+    <item android:drawable="@drawable/borneighteen"
+        android:duration="3500"/>
+</animation-list>
